@@ -1,0 +1,8 @@
+@InProceedings{Wu_2025_WACV,
+    author    = {Wu, Xindi and Singer, Uriel and Lin, Zhaojiang and Madotto, Andrea and Xia, Xide and Xu, Yifan and Crook, Paul and Dong, Xin Luna and Moon, Seungwhan},
+    title     = {Corgi: Cached Memory Guided Video Generation},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {4585-4594}
+} 
