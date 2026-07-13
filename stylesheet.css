@@ -147,6 +147,24 @@ span.highlight {
   font-style: italic;
 }
 
+table.publications td[width="25%"] {
+  vertical-align: middle;
+}
+
+table.publications td[width="25%"] img,
+table.publications td[width="25%"] video {
+  display: block;
+  margin: 0 auto;
+}
+
+a.award-link {
+  color: red !important;
+}
+
+a.award-link:hover {
+  color: #f09228 !important;
+}
+
 .item {
   margin-bottom: 10px;
 }
