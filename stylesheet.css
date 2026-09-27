@@ -168,3 +168,36 @@ a.award-link:hover {
 .item {
   margin-bottom: 10px;
 }
+
+.authors-toggle summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.authors-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+.authors-toggle summary::marker {
+  content: "";
+}
+
+.authors-toggle .toggle-link {
+  color: #1772d0;
+}
+
+.authors-toggle .toggle-link:hover {
+  color: #f09228;
+}
+
+.authors-toggle .show-less {
+  display: none;
+}
+
+.authors-toggle[open] .show-more {
+  display: none;
+}
+
+.authors-toggle[open] .show-less {
+  display: inline;
+}
